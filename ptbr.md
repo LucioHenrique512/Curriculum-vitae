@@ -3,14 +3,14 @@
 
 **Lúcio Henrique Alves Silveira**
 
-Nacionalidade: Brasileiro | Idade: 27 anos | Estado Cívil: Solteiro
+Nacionalidade: Brasileiro - Idade: 27 anos - Estado Cívil: Solteiro
 
 Endereço: Rua Bandeirantes, 318, Santa Cruz, Nova Serrana - MG CEP: 35520368
 
 ###### Informações para contato
  
 [(37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) | 
-lucions96@gmail.com |
+[lucions96@gmail.com](mailto:lucions96@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/luciohasilveira/) |
 [GitHub](https://github.com/LucioHenrique512)
 
