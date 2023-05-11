@@ -28,6 +28,7 @@ Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end
 
 Como um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo.
 
+---
 ### Compass UOL
 **Desenvolvedor Front End Pleno**  
 Outubro de 2021 a Outubro de 2022
@@ -39,18 +40,21 @@ Outubro de 2020 a Julho de 2021
 
 Atuei como desenvolvedor mobile React Native na implementação da funcionalidade PIX em uma instituição financeira. Trabalhei em estreita colaboração com a equipe para garantir a entrega pontual e a qualidade do produto.
 
+---
 ### Bless Sistemas
 **Analista de suporte técnico Junior**  
 Fevereiro de 2019 a Outubro de 2020
 
 Prestei suporte técnico em um sistema ERP voltado ao mercado calçadista. Minhas responsabilidades incluíam atendimento ao cliente, desenvolvimento de relatórios e interação com banco de dados SQL.
 
+---
 ### Alfa Componentes P/ Calçado
 **Assistente administrativo**  
 Novembro de 2015 a Fevereiro de 2019
 
 Realizei diversas funções, incluindo atendimento ao cliente, suporte de TI e auxílio no administrativo. Fui responsável pelo controle de estoque e emissão de NFE.
 
+---
 ### Sulaerica Informática
 **Assistente de suporte de TI**  
 Janeiro de 2013 a agosto de 2015
