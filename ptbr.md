@@ -51,7 +51,7 @@ Novembro de 2015 a Fevereiro de 2019
 Realizei diversas funções, incluindo atendimento ao cliente, suporte de TI e auxílio no administrativo. Fui responsável pelo controle de estoque e emissão de NFE.
 
 ---
-### Sulaerica Informática
+### Sulamerica Informática
 **Assistente de suporte de TI**  
 Janeiro de 2013 a agosto de 2015
 
