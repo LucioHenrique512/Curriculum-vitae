@@ -77,33 +77,43 @@ De 2018 à 2022
 
 ## Licenças e certificados
 
-**Entrega Contínua: confiabilidade e qualidade na implantação de softwareEntrega Contínua: confiabilidade e qualidade na implantação de software**
-> **Alura**
-Emitida em nov de 2022
+**Entrega Contínua: confiabilidade e qualidade na implantação de softwareEntrega Contínua: confiabilidade e qualidade na implantação de software**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/50979667-2def-465f-a883-397c75a82ba8)
 
-**Integração Contínua: mais qualidade e menos risco no desenvolvimento**
-> **Alura**
-Emitida em nov de 2022
+---
+
+**Integração Contínua: mais qualidade e menos risco no desenvolvimento**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/56914925-f6b3-43fb-9fce-b5f56a4cd97a)
 
-**The Twelve-Factor App: Metodologia para construção de aplicações robustasThe Twelve-Factor App: Metodologia para construção de aplicações robustas**
-> **Alura**
-Emitida em nov de 2022
+---
+
+**The Twelve-Factor App: Metodologia para construção de aplicações robustasThe Twelve-Factor App: Metodologia para construção de aplicações robustas**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/6cdce770-eb71-436e-8b6a-17360480ca6d)
 
-**React Native: criando testes para sua aplicação**
-> **Alura**
-Emitida em nov de 2022
+---
+
+**React Native: criando testes para sua aplicação**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/0c87acf0-81c1-42da-89e2-2a413adad487)
 
-**Swift parte 1: desenvolvendo para iOS no Xcode**
-> **Alura**
-Emitida em nov de 2022
+---
+
+**Swift parte 1: desenvolvendo para iOS no Xcode**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/a3201fb8-4332-4a7d-9159-cc853e060827)
 
-**Swift parte 2: UIKit, Storyboard e o padrão Delegate**
-> **Alura**
-Emitida em nov de 2022
+---
+
+**Swift parte 2: UIKit, Storyboard e o padrão Delegate**<br>
+**Alura**<br>
+Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/7f8daebb-ae6d-4cbf-8d6c-978f400a19f8)
 
