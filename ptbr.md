@@ -22,7 +22,7 @@ Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end
 ### Lambda3
 **Desenvolvedor de Software**
 
-Como um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo.
+Fui um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo, aqui atuei com tecnlogias como ReactNative, Kotling, Swift e C#.
 
 ---
 ### Compass UOL
