@@ -2,11 +2,11 @@
 
 Nationality: Brazilian - Age: 27 years old - Marital Status: Single
 
-Address: Rua Bandeirantes, 318, Santa Cruz, Nova Serrana - MG CEP: 35520368
+Address: 318 Bandeirantes St, Nova Serrana, MG, ZIP 35520368 Brazil
 
 ###### Contact Information
  
-[(37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) | 
+[+55 (37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) | 
 [lucions96@gmail.com](mailto:lucions96@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/luciohasilveira/) |
 [GitHub](https://github.com/LucioHenrique512)
