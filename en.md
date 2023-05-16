@@ -16,19 +16,19 @@ Address: 318 Bandeirantes St, Nova Serrana, MG, ZIP 35520368 Brazil
 I am an experienced front-end developer with additional skills in back-end, devops and mobile development. I am always looking for new challenges and opportunities to improve my technical skills and work on innovative projects. I am a proactive person, highly adaptable and with a great sense of teamwork. I collaborate with other professionals to always achieve the best results.
 
 
-## Experiences
+## Experience
 
 ### Lambda3
 **Software Developer**
 
-I was one of the main responsible for the development of a financial application focused on currency remittance, ensuring the security, quality and performance of the product. I implemented data encryption algorithms and was responsible for the modularization and componentization of the application, here I worked with technologies such as ReactNative, Kotling, Swift and C#.
+I was responsible for developing a financial application focused on currency remittance, ensuring the security, quality and performance of the product. I implemented data encryption algorithms and was responsible for the modularization and componentization of the application, here I worked with technologies such as ReactNative, Kotling, Swift and C#.
 
 ---
 ### Compass UOL
 **Front End Developer Pleno**  
 October 2021 to October 2022
 
-I was one of the main responsible for the maintenance and development of wallet and payment functionalities in the Dotz super app. I participated in the conception and implementation of a modular architecture updating the code base to ensure the speed and security that a financial application must have.
+I was responsible for the maintenance and development of wallet and payment functionalities in the Dotz super app. I participated in the conception and implementation of a modular architecture updating the code base to ensure the speed and security that a financial application must have.
 
 **Front End Junior Developer**  
 October 2020 to July 2021
@@ -56,25 +56,25 @@ January 2013 to August 2015
 
 I provided customer service and performed maintenance on computers in general.
 
-## Main competencies
+## Abilities
 * ReactJS - WEB  
 * React Native  
 * NodeJS  
-* Kotlin - basic (In improvement)  
-* C# - basic (In improvement)  
-* Java - Intermediate (In improvement)
-* Swift - basic (In improvement)  
+* Kotlin - basic
+* C# - basic
+* Java - Intermediate
+* Swift - basic
 * SQL  
 * NoSQL  
 * Azure Devops  
-* Azure Web Services - basic (In improvement)  
-* English - Intermediate (In improvement)
+* Azure Web Services - basic
+* English - Intermediate
 
 ## Academic Education 
 **Centro Universitário Una Bom Despacho - MG**
 From 2018 to 2022
 
-## Licenses and certificates
+## Certificates
 
 **Continuous Delivery: reliability and quality in software deploymentContinuous Delivery: reliability and quality in software deployment**<br>
 **Alura**<br>
