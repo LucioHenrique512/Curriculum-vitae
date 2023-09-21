@@ -22,13 +22,17 @@ Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end
 ### Lambda3
 **Desenvolvedor de Software FullStack**
 
+Julho de 2022 
+
 Atualmente alocado em um projeto inteiramente backend nestJs para uma empresa voltada no setor de fidelidade white label, sou um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure. 
+
+Outubro de 2022 a Julho de 2022
 
 Fui um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo, aqui atuei com tecnlogias como ReactNative, Kotling, Swift e C#.
 
 ---
 ### Compass UOL
-**Desenvolvedor Front End Pleno**  
+**Desenvolvedor Mobile ReactNative**  
 Outubro de 2021 a Outubro de 2022
 
 Fui um dos principais responsáveis pela manutenção e desenvolvimento de funcionalidades de carteira e pagamentos no super app Dotz. Participei da concepção e implementação de uma arquitetura modular atualizando a base de código para garantir a rapidez e segurança que um aplicativo financeiro deve ter.
