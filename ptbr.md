@@ -20,7 +20,9 @@ Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end
 ## Experiências
 
 ### Lambda3
-**Desenvolvedor de Software**
+**Desenvolvedor de Software FullStack**
+
+Atualmente alocado em um projeto inteiramente backend nestJs para uma empresa voltada no setor de fidelidade white label, sou um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure. 
 
 Fui um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo, aqui atuei com tecnlogias como ReactNative, Kotling, Swift e C#.
 
