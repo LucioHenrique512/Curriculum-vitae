@@ -32,7 +32,7 @@ Fui um dos principais responsáveis pelo desenvolvimento de um aplicativo financ
 
 ---
 ### Compass UOL
-**Desenvolvedor Mobile ReactNative**  
+**Desenvolvedor Mobile Pleno**  
 Outubro de 2021 a Outubro de 2022
 
 Fui um dos principais responsáveis pela manutenção e desenvolvimento de funcionalidades de carteira e pagamentos no super app Dotz. Participei da concepção e implementação de uma arquitetura modular atualizando a base de código para garantir a rapidez e segurança que um aplicativo financeiro deve ter.
