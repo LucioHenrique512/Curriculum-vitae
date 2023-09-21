@@ -67,15 +67,15 @@ Prestei atendimento ao cliente e realizei manutenção em computadores em geral.
 * ReactJS - WEB  
 * React Native  
 * NodeJS  
-* Kotlin - básico (Em aprimoramento)  
-* C# - básico (Em aprimoramento)  
-* Java - Intermediário (Em aprimoramento)
-* Swift - básico (Em aprimoramento)  
+* Kotlin - básico   
+* C# - básico   
+* Java - Intermediário
+* Swift - básico  
 * SQL  
 * NoSQL  
 * Azure Devops  
-* Azure Web Services - básico (Em aprimoramento)  
-* Inglês - Intermediário (Em aprimoramento)
+* Azure Web Services
+* Inglês - Intermediário
 
 ## Formação Acadêmica 
 **Centro Universitário Una Bom Despacho - MG**
