@@ -64,7 +64,7 @@ Janeiro de 2013 a agosto de 2015
 Prestei atendimento ao cliente e realizei manutenção em computadores em geral. 
 
 ## Principais compentências
-* ReactJS - WEB  
+* ReactJS  
 * React Native  
 * NodeJS  
 * Kotlin - básico   
@@ -75,7 +75,7 @@ Prestei atendimento ao cliente e realizei manutenção em computadores em geral.
 * NoSQL  
 * Azure Devops  
 * Azure Web Services
-* Inglês - Intermediário
+* Inglês
 
 ## Formação Acadêmica 
 **Centro Universitário Una Bom Despacho - MG**
