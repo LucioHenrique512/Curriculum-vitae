@@ -75,7 +75,7 @@ Prestei atendimento ao cliente e realizei manutenção em computadores em geral.
 * NoSQL  
 * Azure Devops  
 * Azure Web Services
-* Inglês
+* Inglês - intermediário
 
 ## Formação Acadêmica 
 **Centro Universitário Una Bom Despacho - MG**
