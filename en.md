@@ -5,8 +5,8 @@ Nationality: Brazilian - Age: 27 years old - Marital Status: Single
 Address: 318 Bandeirantes St, Nova Serrana, MG, ZIP 35520368 Brazil
 
 ###### Contact Information
- 
-[+55 (37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) | 
+
+[+55 (37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) |
 [lucions96@gmail.com](mailto:lucions96@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/luciohasilveira/) |
 [GitHub](https://github.com/LucioHenrique512)
@@ -15,16 +15,24 @@ Address: 318 Bandeirantes St, Nova Serrana, MG, ZIP 35520368 Brazil
 
 I am an experienced front-end developer with additional skills in back-end, devops and mobile development. I am always looking for new challenges and opportunities to improve my technical skills and work on innovative projects. I am a proactive person, highly adaptable and with a great sense of teamwork. I collaborate with other professionals to always achieve the best results.
 
-
 ## Experience
 
 ### Lambda3
-**Software Developer**
 
-I was responsible for developing a financial application focused on currency remittance, ensuring the security, quality and performance of the product. I implemented data encryption algorithms and was responsible for the modularization and componentization of the application, here I worked with technologies such as ReactNative, Kotling, Swift and C#.
+**FullStack Software Developer**
+
+July 2022
+
+Currently allocated to an entirely nestJs backend project for a company focused on the white label loyalty sector, I am one of those responsible for developing the loyalty engine integration service with one of the main POS management systems on the market, in this position I had the opportunity to act directly in the development and implementation of the service, having direct contact with devops using Azure cloud services.
+
+October 2022 to July 2022
+
+I was one of the main people responsible for developing a financial application focused on foreign exchange remittances, ensuring the safety, quality and performance of the product. I implemented data encryption algorithms and was responsible for modularizing and componentizing the application, here I worked with technologies such as ReactNative, Kotling, Swift and C#.
 
 ---
+
 ### Compass UOL
+
 **Front End Developer Pleno**  
 October 2021 to October 2022
 
@@ -36,41 +44,51 @@ October 2020 to July 2021
 I worked as a React Native mobile developer in the implementation of PIX functionality in a financial institution. I worked closely with the team to ensure timely delivery and product quality.
 
 ---
+
 ### Bless Sistemas
+
 **Junior Technical Support Analyst**  
 February 2019 to October 2020
 
 I provided technical support on an ERP system focused on the footwear market. My responsibilities included customer service, report development and interaction with SQL databases.
 
 ---
+
 ### Alfa Componentes P/ Calçado
+
 **Administrative Assistant**  
 November 2015 to February 2019
 
 I performed various functions including customer service, IT support and administrative assistance. I was responsible for inventory control and NFE issuance.
 
 ---
+
 ### Sulamerica Informática
+
 **IT Support Assistant**  
 January 2013 to August 2015
 
 I provided customer service and performed maintenance on computers in general.
 
 ## Abilities
-* ReactJS - WEB  
-* React Native  
-* NodeJS  
-* Kotlin - basic
-* C# - basic
-* Java - Intermediate
-* Swift - basic
-* SQL  
-* NoSQL  
-* Azure Devops  
-* Azure Web Services - basic
-* English - Intermediate
 
-## Academic Education 
+- ReactJS
+- NextJS
+- React Native
+- NodeJS
+- NestJs
+- Kotlin - basic
+- C# - basic
+- Java - Intermediate
+- Swift - basic
+- SQL
+- NoSQL
+- Azure Devops
+- Azure Web Services - basic
+- English - Intermediate
+
+## Academic Education
+
 **Centro Universitário Una Bom Despacho - MG**
 From 2018 to 2022
 

@@ -1,4 +1,3 @@
-
 # Lúcio Henrique Alves Silveira
 
 Nacionalidade: Brasileiro - Idade: 27 anos - Estado Cívil: Solteiro
@@ -6,8 +5,8 @@ Nacionalidade: Brasileiro - Idade: 27 anos - Estado Cívil: Solteiro
 Endereço: Rua Bandeirantes, 318, Santa Cruz, Nova Serrana - MG CEP: 35520368
 
 ###### Informações para contato
- 
-[(37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) | 
+
+[(37) 99934 8005](https://wa.me/5537988348005?text=Ol%C3%A1%2C+tudo+bem%3F) |
 [lucions96@gmail.com](mailto:lucions96@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/luciohasilveira/) |
 [GitHub](https://github.com/LucioHenrique512)
@@ -16,22 +15,24 @@ Endereço: Rua Bandeirantes, 318, Santa Cruz, Nova Serrana - MG CEP: 35520368
 
 Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end, devops e desenvolvimento mobile. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades técnicas e trabalhar em projetos inovadores. Sou uma pessoa pró-ativa, altamente adaptável e com um ótimo senso de equipe. Colaboro com outros profissionais para sempre alcançar os melhores resultados.
 
-
 ## Experiências
 
 ### Lambda3
+
 **Desenvolvedor de Software FullStack**
 
-Julho de 2022 
+Julho de 2022
 
-Atualmente alocado em um projeto inteiramente backend nestJs para uma empresa voltada no setor de fidelidade white label, sou um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure. 
+Atualmente alocado em um projeto inteiramente backend nestJs para uma empresa voltada no setor de fidelidade white label, sou um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure.
 
 Outubro de 2022 a Julho de 2022
 
 Fui um dos principais responsáveis pelo desenvolvimento de um aplicativo financeiro voltado para remessa de câmbio, garanti a segurança, qualidade e desempenho do produto. Implementei algoritmos de criptografia de dados e fui responsável pela modularização e componentização do aplicativo, aqui atuei com tecnlogias como ReactNative, Kotling, Swift e C#.
 
 ---
+
 ### Compass UOL
+
 **Desenvolvedor Mobile Pleno**  
 Outubro de 2021 a Outubro de 2022
 
@@ -43,41 +44,51 @@ Outubro de 2020 a Julho de 2021
 Atuei como desenvolvedor mobile React Native na implementação da funcionalidade PIX em uma instituição financeira. Trabalhei em estreita colaboração com a equipe para garantir a entrega pontual e a qualidade do produto.
 
 ---
+
 ### Bless Sistemas
+
 **Analista de suporte técnico Junior**  
 Fevereiro de 2019 a Outubro de 2020
 
 Prestei suporte técnico em um sistema ERP voltado ao mercado calçadista. Minhas responsabilidades incluíam atendimento ao cliente, desenvolvimento de relatórios e interação com banco de dados SQL.
 
 ---
+
 ### Alfa Componentes P/ Calçado
+
 **Assistente administrativo**  
 Novembro de 2015 a Fevereiro de 2019
 
 Realizei diversas funções, incluindo atendimento ao cliente, suporte de TI e auxílio no administrativo. Fui responsável pelo controle de estoque e emissão de NFE.
 
 ---
+
 ### Sulamerica Informática
+
 **Assistente de suporte de TI**  
 Janeiro de 2013 a agosto de 2015
 
-Prestei atendimento ao cliente e realizei manutenção em computadores em geral. 
+Prestei atendimento ao cliente e realizei manutenção em computadores em geral.
 
 ## Principais compentências
-* ReactJS  
-* React Native  
-* NodeJS  
-* Kotlin - básico   
-* C# - básico   
-* Java - Intermediário
-* Swift - básico  
-* SQL  
-* NoSQL  
-* Azure Devops  
-* Azure Web Services
-* Inglês - intermediário
 
-## Formação Acadêmica 
+- ReactJS
+- NextJS
+- React Native
+- NodeJS
+- NestJS
+- Kotlin - básico
+- C# - básico
+- Java - Intermediário
+- Swift - básico
+- SQL
+- NoSQL
+- Azure Devops
+- Azure Web Services
+- Inglês - intermediário
+
+## Formação Acadêmica
+
 **Centro Universitário Una Bom Despacho - MG**
 De 2018 à 2022
 
@@ -122,4 +133,3 @@ Emitida em nov de 2022<br>
 **Alura**<br>
 Emitida em nov de 2022<br>
 [Acessar Certificado](https://cursos.alura.com.br/certificate/7f8daebb-ae6d-4cbf-8d6c-978f400a19f8)
-
