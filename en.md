@@ -23,7 +23,9 @@ I am an experienced front-end developer with additional skills in back-end, devo
 
 July 2022
 
-Currently allocated to an entirely nestJs backend project for a company focused on the white label loyalty sector, I am one of those responsible for developing the loyalty engine integration service with one of the main POS management systems on the market, in this position I had the opportunity to act directly in the development and implementation of the service, having direct contact with devops using Azure cloud services.
+I am currently part of a highly versatile team, where we implement new features and support the maintenance and support of an already established code base. Additionally, I have extensive experience managing Azure infrastructure, including creating pipelines for microservices and publishing containers.
+
+I was one of those responsible for developing the loyalty engine integration service with one of the main POS management systems on the market, in this position I had the opportunity to work directly in the development and implementation of the service, having direct contact with devops using the services of Azure cloud.
 
 October 2022 to July 2022
 
