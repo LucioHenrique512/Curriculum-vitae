@@ -13,7 +13,7 @@ Endereço: Rua Bandeirantes, 318, Santa Cruz, Nova Serrana - MG CEP: 35520368
 
 ## Resumo
 
-Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end, devops e desenvolvimento mobile. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades técnicas e trabalhar em projetos inovadores. Sou uma pessoa pró-ativa, altamente adaptável e com um ótimo senso de equipe. Colaboro com outros profissionais para sempre alcançar os melhores resultados.
+Sou um desenvolvedor experiente, atuo tanto como backend, frontend, devops e desenvolvimento mobile. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades técnicas e trabalhar em projetos inovadores. Sou uma pessoa pró-ativa, altamente adaptável e com um ótimo senso de equipe. Colaboro com outros profissionais para sempre alcançar os melhores resultados.
 
 ## Experiências
 
@@ -23,7 +23,9 @@ Sou um desenvolvedor front-end experiente com habilidades adicionais em back-end
 
 Julho de 2022
 
-Atualmente alocado em um projeto inteiramente backend nestJs para uma empresa voltada no setor de fidelidade white label, sou um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure.
+Atualmente, faço parte de uma equipe altamente versátil, onde implementamos novas funcionalidades e oferecemos suporte à manutenção e sustentação de uma base de código já estabelecida. Além disso, tenho ampla experiência no gerenciamento da infraestrutura da Azure, incluindo a criação de pipelines para microserviços e a publicação de containers.
+
+Fui um dos responsáveis pelo desenvolvimento do serviço de integração do motor de loyalty com um dos principais sistemas de gerenciamento de PDV do mercado, nessa posição tive a oportunidade de atuar diretamente no desenvolvimento e na implementação do serviço, tendo contato direto com devops utilizando os serviços de cloud da Azure.
 
 Outubro de 2022 a Julho de 2022
 
